@@ -54,12 +54,8 @@ I am passionate about learning new programming languages, working on data analys
 
 
 ## 📍 Find Me On:
-- [LinkedIn](www.linkedin.com/in/bhuvanesh-d-6463b226a)
-- [Email](bhuvaneshd32@gmail.com)
-- [Instagram](https://www.kaggle.com/bhuvaneshd32)
-
----
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvanesh-d-6463b226a)
+- 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvaneshd32@gmail.com)
 
 🏆 “The only way to do great work is to love what you do.” — Steve Jobs
 
