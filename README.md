@@ -59,6 +59,3 @@ I am passionate about learning new programming languages, working on data analys
 
 🏆 “The only way to do great work is to love what you do.” — Steve Jobs
 
-
-
-> "The only way to do great work is to love what you do." — Steve Jobs
