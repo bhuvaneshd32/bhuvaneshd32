@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-# 👋 Hello, I’m @bhuvaneshd32
+#@bhuvaneshd32
 
 I am passionate about learning new programming languages, working on data analysis, and pursuing cutting-edge data science applications.
 
