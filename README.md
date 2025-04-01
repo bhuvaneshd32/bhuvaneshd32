@@ -1,8 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bhuvanesh D;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&center=true&lines=Hello,+There!+👋;This+is+Bhuvanesh+D;Nice+to+meet+you!">
   </a>
 </h1>
+
 # 👋 Hello, I’m @bhuvaneshd32
 
 I am passionate about learning new programming languages, working on data analysis, and pursuing cutting-edge data science applications.
@@ -20,11 +21,9 @@ I am passionate about learning new programming languages, working on data analys
 
 ---
 
+## 🛠️ Technologies & Tools I Use
 
-🛠️ Technologies & Tools I Use
-
-📊 Data Science & Machine Learning
-
+### 📊 Data Science & Machine Learning
 <table>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Python-%233776E4.svg?&style=for-the-badge&logo=python&logoColor=white" height="40"></td>
@@ -34,13 +33,11 @@ I am passionate about learning new programming languages, working on data analys
     <td align="center"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" height="40"></td>
     <td align="center"><img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" height="40"></td>
   </tr>
-</table>  
+</table>
 
+---
 
-⸻
-
-💻 Development Tools
-
+### 💻 Development Tools
 <table>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40"></td>
@@ -54,13 +51,12 @@ I am passionate about learning new programming languages, working on data analys
     <td align="center"><img src="https://img.shields.io/badge/Xcode-%23147EFB.svg?&style=for-the-badge&logo=xcode&logoColor=white" height="40"></td>
     <td align="center"><img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white" height="40"></td>
   </tr>
-</table>  
+</table>
 
-
+---
 
 ## 📍 Find Me On:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvanesh-d-6463b226a)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvaneshd32@gmail.com)
 
 🏆 “The only way to do great work is to love what you do.” — Steve Jobs
-
