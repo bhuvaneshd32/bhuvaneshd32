@@ -15,40 +15,6 @@ I am passionate about learning new programming languages, working on data analys
 
 ---
 
-## 🛠️ Technologies & Tools I Use:
-
-### 📊 **Data Science & Machine Learning**:
-![Python](https://img.shields.io/badge/Python-%233776E4.svg?&style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-%2300B0B9.svg?&style=for-the-badge&logo=r&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-### 💻 **Development**:
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)  
-![Xcode](https://img.shields.io/badge/Xcode-%23147EFB.svg?&style=for-the-badge&logo=xcode&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white)
-Here’s your updated GitHub Profile README with larger icons and a two-per-row layout:
-
-⸻
-
-👋 Hello, I’m @bhuvaneshd32
-
-I am passionate about learning new programming languages, working on data analysis, and pursuing cutting-edge data science applications.
-	•	🔭 I’m currently studying MSc Data Science at PSG College of Technology.
-	•	🌱 I’m always learning and building projects in data analysis, machine learning, and software development.
-	•	💬 Feel free to reach out if you are interested in collaborating on any interesting projects.
-
-⸻
-
-📈 GitHub Stats
-
-
-⸻
 
 🛠️ Technologies & Tools I Use
 
@@ -64,8 +30,6 @@ I am passionate about learning new programming languages, working on data analys
     <td align="center"><img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" height="40"></td>
   </tr>
 </table>  
-
-
 
 
 ⸻
@@ -89,27 +53,16 @@ I am passionate about learning new programming languages, working on data analys
 
 
 
+## 📍 Find Me On:
+- [LinkedIn](www.linkedin.com/in/bhuvanesh-d-6463b226a)
+- [Email](bhuvaneshd32@gmail.com)
+- [Instagram](https://www.kaggle.com/bhuvaneshd32)
 
-⸻
+---
 
-📍 Find Me On
-	•	
-
-	•	
-
-	•	
-
-
-⸻
 
 🏆 “The only way to do great work is to love what you do.” — Steve Jobs
 
-Let me know if you need more enhancements! 🚀
 
-## 📍 Find Me On:
-- [LinkedIn](https://www.linkedin.com/in/bhuvaneshd32)
-- [Twitter](https://twitter.com/bhuvaneshd32)
-- [Kaggle](https://www.kaggle.com/bhuvaneshd32)
 
----
 > "The only way to do great work is to love what you do." — Steve Jobs
