@@ -1,3 +1,8 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bhuvanesh D;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 # 👋 Hello, I’m @bhuvaneshd32
 
 I am passionate about learning new programming languages, working on data analysis, and pursuing cutting-edge data science applications.
