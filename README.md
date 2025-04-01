@@ -23,10 +23,15 @@ I am passionate about learning new programming languages, working on data analys
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+---
+
 ### 💻 **Development**:
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)  
+![Xcode](https://img.shields.io/badge/Xcode-%23147EFB.svg?&style=for-the-badge&logo=xcode&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
