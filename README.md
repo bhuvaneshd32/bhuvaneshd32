@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&center=true&lines=Hello,+There!+👋;This+is+Bhuvanesh+D;Nice+to+meet+you!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&center=true&lines=Hello,+There!+👋;This+is+Bhuvanesh+D;PSG+College+Of+Technology">
   </a>
 </h1>
 
-#@bhuvaneshd32
+@bhuvaneshd32
 
 I am passionate about learning new programming languages, working on data analysis, and pursuing cutting-edge data science applications.
 
