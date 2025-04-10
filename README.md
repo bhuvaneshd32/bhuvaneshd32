@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&center=true&lines=Hello,+There!+👋;This+is+Bhuvanesh+D;PSG+College+Of+Technology">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&center=true&multiline=true&lines=Hello,+There!+👋;This+is+Bhuvanesh+D;PSG+COLLEGE+OF+TECHNOLOGY">
   </a>
 </h1>
 
@@ -18,7 +18,7 @@ I am passionate about learning new programming languages, working on data analys
 
 ![Bhuvanesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvaneshd32&show_icons=true&theme=dark&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshd32&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=bhuvaneshd32&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bhuvaneshd32&color=0f0f0f&style=for-the-badge)
 
